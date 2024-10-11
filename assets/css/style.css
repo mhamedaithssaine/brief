@@ -525,7 +525,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 
 .explore-rating-price,.explore-rating-price a {
     font-size: 12px;
-    color: #777f85;
+    color: #0b0b0b;
     text-transform: capitalize;
     font-weight: 400;
     margin: 15px 0 20px;
@@ -625,7 +625,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     margin-top: 11px;
 }
 .testimonial-person h2 {
-    color: #505866;
+    color: #000;
     font-size: 18px;
 }
 .testimonial-person h4 {
@@ -853,8 +853,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .footer-menu ul.footer-menu-item{text-align: right;}
 .footer-menu ul.footer-menu-item li{display: inline-block;}
 .footer-menu ul.footer-menu-item li a {
-    color: #859098;
-    font-size: 14px;
+    color: #000;
+    font-size: 12px;
     text-transform: uppercase;
     padding-left: 40px;
     -webkit-transition:0.3s linear;
@@ -868,7 +868,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     border-top: 1px solid #e1e5eb;
 }
 .hm-footer-copyright p,.hm-footer-copyright p a {
-    color: #a5adb3;
+    color: #000;
     font-size: 14px;
     font-weight: 400;
     text-transform: capitalize;
@@ -880,7 +880,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 }
 .footer-social a ,.footer-social span {
     display: inline-block;
-    color: #afb4bf;
+    color: #000;
     font-size: 14px;
     margin-left: 15px;
     -webkit-transition: .3s; 
