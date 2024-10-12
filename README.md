@@ -1,53 +1,35 @@
-# Project Name: ListoGo
-================
 
-## Overview
-------------
+# Project Title
 
-* Briefly describe the project and its purpose
+ListoGo un projet conçu pour offrir une expérience utilisateur agréable pour la navigation dans un annuaire. Il présente une mise en page responsive avec des sections claires et des éléments interactifs.
 
-## Features
-------------
+## Technologies used
 
-* List the key features of your project
+- HTML5
+- CSS
+- JavaScript
 
-## Getting Started
------------------
 
-* Provide instructions on how to get started with your project
+## # Github Profile 
 
-## Requirements
--------------
+Pour voir le projet sur votre machine locale utilise ce lien : 
 
-* List any dependencies or requirements needed to use your project
+https://github.com/mhamedaithssaine/brief
 
-## Installation
-------------
+## ##  Skills
 
-* Provide instructions on how to install your project
+ HTML, CSS...
 
-## Usage
------
 
-* Provide examples of how to use your project
+## ## # Features
 
-## Contributing
-------------
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
 
-* Provide guidelines on how to contribute to your project
 
-## License
--------
+## ## ## Authors
 
-* Specify the license under which your project is released
+- https://github.com/mhamedaithssaine
 
-## Authors
--------
-
-* List the authors of your project
-
-## Acknowledgments
---------------
-
-* Acknowledge any third-party libraries or resources used in your project
------------------------
